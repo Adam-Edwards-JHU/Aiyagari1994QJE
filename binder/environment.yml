@@ -2,7 +2,5 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.8
-  - pip
-  - pip:
-    - git+https://github.com/EconForge/dolark.py
+  - python=3.11.7
+  - econ-ark==0.13.0
