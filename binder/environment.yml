@@ -3,4 +3,5 @@ channels:
 
 dependencies:
   - python=3.11.7
+  - ipython
   - econ-ark==0.13.0
