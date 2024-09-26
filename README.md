@@ -10,4 +10,4 @@ Step 2) Change directory to this repo
 
 Step 3) jupyterlab
 
-Step 4) Select Aiyagari1994QJE.ipynb
+Step 4) Select AiyagariMarkovHARK.ipynb
