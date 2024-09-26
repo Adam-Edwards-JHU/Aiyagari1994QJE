@@ -1,4 +1,4 @@
-# To execute notebook
+# To execute notebook (temporary until I test reproduce.sh)
 
 Step 1)
 
